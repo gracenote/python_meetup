@@ -1,0 +1,193 @@
+[
+    {
+        "albumEditionID": "a_gracenote_identifier",
+        "albumEditionName": "Dangerously In Love",
+        "albumMasterID": "a_gracenote_identifier",
+        "artist": {
+            "artistID": "a_gracenote_identifier",
+            "artistName": "Beyoncé"
+        },
+        "externalIDs": {
+            "albumIDs": null
+        },
+        "images": {
+            "albumImages": [
+                {
+                    "size": "XLARGE",
+                    "width": "1080",
+                    "height": "1080",
+                    "value": "an_album_coverart_link"
+                }
+            ]
+        },
+        "languageContexts": [
+            {
+                "language": "English",
+                "script": "Latin",
+                "weight": "100"
+            }
+        ],
+        "productCodes": [
+            {
+                "value": "696998638624",
+                "type": "UPC"
+            },
+            {
+                "value": "886443814448",
+                "type": "UPC"
+            }
+        ],
+        "releaseType": {
+            "ID": "1",
+            "value": "Main Canon"
+        },
+        "releaseYear": "2003",
+        "trackCount": "16",
+        "tracks": [
+            {
+                "ord": "1",
+                "recordingID": "a_gracenote_identifier",
+                "trackName": "Crazy In Love",
+                "artist": {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Beyoncé"
+                }
+            },
+            {
+                "ord": "2",
+                "recordingID": "a_gracenote_identifier",
+                "trackName": "Naughty Girl",
+                "artist": {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Beyoncé"
+                }
+            },
+            {
+                "ord": "3",
+                "recordingID": "a_gracenote_identifier",
+                "trackName": "Baby Boy (Ft. Sean Paul)",
+                "artist": {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Beyoncé"
+                }
+            },
+            {
+                "ord": "4",
+                "recordingID": "a_gracenote_identifier",
+                "trackName": "Hip Hop Star",
+                "artist": {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Beyoncé"
+                }
+            },
+            {
+                "ord": "5",
+                "recordingID": "a_gracenote_identifier",
+                "trackName": "Be With You",
+                "artist": {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Beyoncé"
+                }
+            },
+            {
+                "ord": "6",
+                "recordingID": "a_gracenote_identifier",
+                "trackName": "Me, Myself And I",
+                "artist": {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Beyoncé"
+                }
+            },
+            {
+                "ord": "7",
+                "recordingID": "a_gracenote_identifier",
+                "trackName": "Yes",
+                "artist": {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Beyoncé"
+                }
+            },
+            {
+                "ord": "8",
+                "recordingID": "a_gracenote_identifier",
+                "trackName": "Signs Ft Missy Elliot",
+                "artist": {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Beyoncé"
+                }
+            },
+            {
+                "ord": "9",
+                "recordingID": "a_gracenote_identifier",
+                "trackName": "Speechless",
+                "artist": {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Beyoncé"
+                }
+            },
+            {
+                "ord": "10",
+                "recordingID": "a_gracenote_identifier",
+                "trackName": "That's How You Like It",
+                "artist": {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Beyoncé"
+                }
+            },
+            {
+                "ord": "11",
+                "recordingID": "a_gracenote_identifier",
+                "trackName": "Closer I Get To You",
+                "artist": {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Beyoncé"
+                }
+            },
+            {
+                "ord": "12",
+                "recordingID": "a_gracenote_identifier",
+                "trackName": "Dangerously In Love 2",
+                "artist": {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Beyoncé"
+                }
+            },
+            {
+                "ord": "13",
+                "recordingID": "a_gracenote_identifier",
+                "trackName": "Beyonce Interlude",
+                "artist": {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Beyoncé"
+                }
+            },
+            {
+                "ord": "14",
+                "recordingID": "a_gracenote_identifier",
+                "trackName": "Gift From Virgo",
+                "artist": {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Beyoncé"
+                }
+            },
+            {
+                "ord": "15",
+                "recordingID": "a_gracenote_identifier",
+                "trackName": "Daddy",
+                "artist": {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Beyoncé"
+                }
+            },
+            {
+                "ord": "16",
+                "recordingID": "a_gracenote_identifier",
+                "trackName": "Naughty Girl featuring Lil' Kim",
+                "artist": {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Beyoncé"
+                }
+            }
+        ]
+    }
+]

@@ -1,3 +1,21 @@
 Welcome Python coder! 
 
-Congratulations for getting here early. Please check back in a week for the preliminary sample code, and be sure to check here again after Tuesday, September 10th for the skeleton code that you’ll need for the meet-up.
+Congratulations for getting here early. In this repo you'll find sample json files for Gracenote Music Metadata, and a test script.  Please run the test script on your machine to make sure you can run the `json` and `requests` libraries.
+
+First, clone the repo using:
+
+`git clone https://github.com/gracenote/python_meetup.git`
+
+Then navigate to the directory:
+
+`cd python_meetup`
+
+And run the test scripts:
+
+`python test_script.py`
+
+The output should look like this:
+
+`Requests test result: True`
+
+`Json test result: Beyoncé`

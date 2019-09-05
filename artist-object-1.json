@@ -1,0 +1,514 @@
+[
+    {
+        "alternateNames": [
+            {
+                "artistName": "ビヨンセ",
+                "languageContext": {
+                    "language": "Japanese",
+                    "script": "Katakana"
+                }
+            },
+            {
+                "artistName": "비욘세",
+                "languageContext": {
+                    "language": "Korean",
+                    "script": "Hangul"
+                }
+            },
+            {
+                "artistName": "碧昂丝",
+                "languageContext": {
+                    "language": "Chinese",
+                    "script": "Han (Simplified)"
+                }
+            },
+            {
+                "artistName": "碧昂絲",
+                "languageContext": {
+                    "language": "Chinese",
+                    "script": "Han (Traditional)"
+                }
+            },
+            {
+                "artistName": "Beyoncé Knowles",
+                "languageContext": {
+                    "language": "English",
+                    "script": "Latin"
+                }
+            }
+        ],
+        "artistID": "a_gracenote_identifier",
+        "artistName": {
+            "artistName": "Beyoncé",
+            "languageContext": {
+                "language": "English",
+                "script": "Latin"
+            }
+        },
+        "descriptors": {
+            "artistTypes": [
+                {
+                    "artistType": "Female Solo - Solo Vocal",
+                    "weight": "100"
+                }
+            ],
+            "eras": [
+                {
+                    "era": "2000s",
+                    "weight": "60"
+                },
+                {
+                    "era": "2010s",
+                    "weight": "40"
+                }
+            ],
+            "genres": [
+                {
+                    "genre": "Urban Crossover: R&B",
+                    "weight": "64"
+                },
+                {
+                    "genre": "Urban AC",
+                    "weight": "36"
+                }
+            ],
+            "languages": [
+                {
+                    "language": "English",
+                    "weight": "100"
+                }
+            ],
+            "origins": [
+                {
+                    "origin": "Houston",
+                    "weight": "100"
+                }
+            ]
+        },
+        "disambiguation": "Houston Urban Crossover: R&B",
+        "images": {
+            "artistImages": [
+                {
+                    "size": "XLARGE",
+                    "width": "707",
+                    "height": "1080",
+                    "value": "an_artist_image_link"
+                }
+            ]
+        },
+        "nameVariants": [
+            "Beyoncé Giselle Knowles",
+            "Beyoncé Giselle Knowles-Carter",
+            "Sasha Fierce",
+            "Queen B"
+        ],
+        "objectType": "Person",
+        "popularity": [
+            {
+                "region": "USA",
+                "score": 0.69281,
+                "type": "recent"
+            },
+            {
+                "region": "USA",
+                "score": 0.95478,
+                "type": "alltime"
+            },
+            {
+                "region": "CAN",
+                "score": 0.69636,
+                "type": "recent"
+            },
+            {
+                "region": "CAN",
+                "score": 0.94851,
+                "type": "alltime"
+            }
+        ],
+        "relatedArtists": {
+            "memberOfBands": [
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Destiny's Child"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Dreamgirls Motion Picture Cast"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "The Carters"
+                }
+            ],
+            "memberOfCollaborations": [
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Destiny's Child"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Beyoncé Feat. Missy Eliott, MC Lyte & Free"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Luther Vandross & Beyoncé"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Beyoncé Feat. Shakira"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Alejandro Fernández Feat. Beyoncé"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Beyoncé Feat. Alejandro Fernández"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Beyoncé & Marc Nelson"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Beyoncé Feat. Big Boi & Sleepy Brown"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Beyoncé Feat. Missy Elliot"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Beyoncé Feat. Sean Paul"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Beyoncé, Mos Def & Sam Sarpong"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Beyoncé, Wyclef Jean & Rah Digga"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Beyoncé & Mekhi Phifer"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Beyoncé Feat. P. Diddy"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Beyoncé Feat. Jay-Z"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Beyoncé Feat. Bilal"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "IAM Feat. Beyoncé"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Beyoncé & Walter Williams Sr."
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Beyoncé Feat. Missy Elliott"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Jay-Z Feat. Beyoncé"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Beyoncé Feat. Voltio"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Missy Elliott Feat. Beyoncé"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Beyoncé Feat. Slim Thug"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Justin Timberlake Feat. Beyoncé"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Beyoncé Feat. Luther Vandross"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Beyoncé Feat. J. Cole"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Mary J. Blige Feat. Beyoncé"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Beyoncé & André 3000"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Beyoncé Feat. Andre 3000 & Kanye West"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Jay-Z & Kanye West Feat. Beyoncé"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Beyoncé Feat. Lady Gaga"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Lady Gaga Feat. Beyoncé"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Alicia Keys Feat. Beyoncé"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Beyoncé Feat. Kanye West"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "The-Dream Feat. Beyoncé & 2 Chainz"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Beyoncé Feat. Mr. Vegas"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Beyoncé Feat. Frank Ocean"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Beyoncé Feat. Chimamanda Ngozi Adichie"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Beyoncé Feat. Drake"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Beyoncé Feat. Blue Ivy"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Beyoncé Feat. Pharrell Williams"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Beyoncé Feat. Jay-Z & Kanye West"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Beyoncé Feat. Nicki Minaj"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Nicki Minaj Feat. Beyoncé"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Beyoncé Feat. Bun B & Slim Thug"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Naughty Boy Feat. Beyoncé & Arrow Benjamin"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Coldplay Feat. Beyoncé"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Beyoncé Feat. Jack White"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Beyoncé Feat. The Weeknd"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Beyoncé Feat. James Blake"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Beyoncé Feat. Kendrick Lamar"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Dreamgirls Motion Picture Cast Feat. Jennifer Hudson, Beyoncé Knowles, Sharon Leal & Anika Noni Rose"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Dreamgirls Motion Picture Cast Feat. Jamie Foxx, Jennifer Hudson, Beyoncé Knowles, Keith Robinson & Anika Noni Rose"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Dreamgirls Motion Picture Cast Feat. Jamie Foxx & Beyoncé"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Kanye West Feat. Big Sean, Beyoncé & Charlie Wilson"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Usher Feat. Beyoncé & Lil Wayne"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Usher Feat. Beyoncé"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Kelly Rowland Feat. Beyoncé & Michelle"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Beyoncé Feat. Dixie Chicks"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "DJ Khaled Feat. Beyoncé & Jay-Z"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Beyoncé Feat. Lil' Kim"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Dreamgirls Motion Picture Cast Feat. Beyoncé, Jennifer Hudson & Anika Noni Rose"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Dreamgirls Motion Picture Cast Feat. Eddie Murphy, Jennifer Hudson, Beyoncé & Anika Noni Rose"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Dreamgirls Motion Picture Cast Feat. Beyoncé, Anika Noni Rose & Sharon Leal"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Dreamgirls Motion Picture Cast Feat. Beyoncé"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Beyoncé Feat. Ghostface Killah"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Michelle Williams Feat. Beyoncé & Kelly Rowland"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "J Balvin & Willy William Feat. Beyoncé"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Eminem Feat. Beyoncé"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Ed Sheeran & Beyoncé"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "DJ Khaled Feat. Jay-Z, Future & Beyoncé"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "The Carters"
+                }
+            ],
+            "similarArtists": [
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Brandy"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Jennifer Lopez"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Aaliyah"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Ciara"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Gwen Stefani"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Rihanna"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Fantasia"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Keri Hilson"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Alicia Keys"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Estelle"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Ashanti"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Cassie"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Keyshia Cole"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Ameriie"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Leona Lewis"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Fergie"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Michelle Williams"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Justin Timberlake"
+                },
+                {
+                    "artistID": "a_gracenote_identifier",
+                    "artistName": "Kelly Rowland"
+                }
+            ]
+        },
+        "sortName": "Beyonce"
+    }
+]
