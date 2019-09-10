@@ -25,5 +25,5 @@ def test_json():
     return artist_name
 
 if __name__ == '__main__':
-    print("Requests test result: ", test_requests())
-    print("Json test result: ", test_json())
+    print "Requests test result: ", test_requests()
+    print "Json test result: ", test_json()

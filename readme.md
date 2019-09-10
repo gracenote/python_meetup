@@ -1,6 +1,6 @@
 Welcome Python coder! 
 
-Congratulations for getting here early. In this repo you'll find sample json files for Gracenote Music Metadata, and a test script.  Please run the test script on your machine to make sure you can run the `json` and `requests` libraries.
+Congratulations for getting here early. In this repo you'll find sample json files for Gracenote Music Metadata, and a test script.  Please run the test script on your machine to make sure you can run the `json` and `requests` libraries.  This project is designed for Python 2.7.
 
 First, clone the repo using:
 
