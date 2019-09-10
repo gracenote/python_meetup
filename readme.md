@@ -18,4 +18,4 @@ The output should look like this:
 
 `Requests test result: True`
 
-`Json test result: Beyoncé`
+`Json test result: Taylor Swift`
