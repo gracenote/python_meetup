@@ -1,14 +1,35 @@
 [
     {
         "albumEditionID": "a_gracenote_identifier",
-        "albumEditionName": "Dangerously In Love",
+        "albumEditionName": "1989",
         "albumMasterID": "a_gracenote_identifier",
         "artist": {
             "artistID": "a_gracenote_identifier",
-            "artistName": "Beyoncé"
+            "artistName": "Taylor Swift"
         },
         "externalIDs": {
-            "albumIDs": null
+            "albumIDs": [
+                {
+                    "source": "spotify-album-id",
+                    "value": "a_spotify_id"
+                },
+                {
+                    "source": "deezer-album-id",
+                    "value": "a_deezer_id"
+                },
+                {
+                    "source": "apple-album-id",
+                    "value": "an_apple_id"
+                },
+                {
+                    "source": "deezer-album-id",
+                    "value": "a_deezer_id"
+                },
+                {
+                    "source": "deezer-album-id",
+                    "value": "a_deezer_id"
+                }
+            ]
         },
         "images": {
             "albumImages": [
@@ -29,11 +50,99 @@
         ],
         "productCodes": [
             {
-                "value": "696998638624",
+                "value": "00602537993772",
                 "type": "UPC"
             },
             {
-                "value": "886443814448",
+                "value": "00602537993826",
+                "type": "UPC"
+            },
+            {
+                "value": "00602537998906",
+                "type": "UPC"
+            },
+            {
+                "value": "00602547066053",
+                "type": "UPC"
+            },
+            {
+                "value": "00602547066886",
+                "type": "UPC"
+            },
+            {
+                "value": "00602547071538",
+                "type": "UPC"
+            },
+            {
+                "value": "00602547071668",
+                "type": "UPC"
+            },
+            {
+                "value": "00843930013500",
+                "type": "UPC"
+            },
+            {
+                "value": "00843930013524",
+                "type": "UPC"
+            },
+            {
+                "value": "00843930013531",
+                "type": "UPC"
+            },
+            {
+                "value": "00843930013555",
+                "type": "UPC"
+            },
+            {
+                "value": "00843930013579",
+                "type": "UPC"
+            },
+            {
+                "value": "00843930013586",
+                "type": "UPC"
+            },
+            {
+                "value": "00843930014811",
+                "type": "UPC"
+            },
+            {
+                "value": "00843930015115",
+                "type": "UPC"
+            },
+            {
+                "value": "00843930015436",
+                "type": "UPC"
+            },
+            {
+                "value": "602537993772",
+                "type": "UPC"
+            },
+            {
+                "value": "602537993826",
+                "type": "UPC"
+            },
+            {
+                "value": "602547066886",
+                "type": "UPC"
+            },
+            {
+                "value": "602547071538",
+                "type": "UPC"
+            },
+            {
+                "value": "843930013555",
+                "type": "UPC"
+            },
+            {
+                "value": "843930013579",
+                "type": "UPC"
+            },
+            {
+                "value": "843930013586",
+                "type": "UPC"
+            },
+            {
+                "value": "843930015115",
                 "type": "UPC"
             }
         ],
@@ -41,151 +150,124 @@
             "ID": "1",
             "value": "Main Canon"
         },
-        "releaseYear": "2003",
-        "trackCount": "16",
+        "releaseYear": "2014",
+        "trackCount": "13",
         "tracks": [
             {
                 "ord": "1",
                 "recordingID": "a_gracenote_identifier",
-                "trackName": "Crazy In Love",
+                "trackName": "Welcome To New York",
                 "artist": {
                     "artistID": "a_gracenote_identifier",
-                    "artistName": "Beyoncé"
+                    "artistName": "Taylor Swift"
                 }
             },
             {
                 "ord": "2",
                 "recordingID": "a_gracenote_identifier",
-                "trackName": "Naughty Girl",
+                "trackName": "Blank Space",
                 "artist": {
                     "artistID": "a_gracenote_identifier",
-                    "artistName": "Beyoncé"
+                    "artistName": "Taylor Swift"
                 }
             },
             {
                 "ord": "3",
                 "recordingID": "a_gracenote_identifier",
-                "trackName": "Baby Boy (Ft. Sean Paul)",
+                "trackName": "Style",
                 "artist": {
                     "artistID": "a_gracenote_identifier",
-                    "artistName": "Beyoncé"
+                    "artistName": "Taylor Swift"
                 }
             },
             {
                 "ord": "4",
                 "recordingID": "a_gracenote_identifier",
-                "trackName": "Hip Hop Star",
+                "trackName": "Out Of The Woods",
                 "artist": {
                     "artistID": "a_gracenote_identifier",
-                    "artistName": "Beyoncé"
+                    "artistName": "Taylor Swift"
                 }
             },
             {
                 "ord": "5",
                 "recordingID": "a_gracenote_identifier",
-                "trackName": "Be With You",
+                "trackName": "All You Had To Do Was Stay",
                 "artist": {
                     "artistID": "a_gracenote_identifier",
-                    "artistName": "Beyoncé"
+                    "artistName": "Taylor Swift"
                 }
             },
             {
                 "ord": "6",
                 "recordingID": "a_gracenote_identifier",
-                "trackName": "Me, Myself And I",
+                "trackName": "Shake It Off",
                 "artist": {
                     "artistID": "a_gracenote_identifier",
-                    "artistName": "Beyoncé"
+                    "artistName": "Taylor Swift"
                 }
             },
             {
                 "ord": "7",
                 "recordingID": "a_gracenote_identifier",
-                "trackName": "Yes",
+                "trackName": "I Wish You Would",
                 "artist": {
                     "artistID": "a_gracenote_identifier",
-                    "artistName": "Beyoncé"
+                    "artistName": "Taylor Swift"
                 }
             },
             {
                 "ord": "8",
                 "recordingID": "a_gracenote_identifier",
-                "trackName": "Signs Ft Missy Elliot",
+                "trackName": "Bad Blood",
                 "artist": {
                     "artistID": "a_gracenote_identifier",
-                    "artistName": "Beyoncé"
+                    "artistName": "Taylor Swift"
                 }
             },
             {
                 "ord": "9",
                 "recordingID": "a_gracenote_identifier",
-                "trackName": "Speechless",
+                "trackName": "Wildest Dreams",
                 "artist": {
                     "artistID": "a_gracenote_identifier",
-                    "artistName": "Beyoncé"
+                    "artistName": "Taylor Swift"
                 }
             },
             {
                 "ord": "10",
                 "recordingID": "a_gracenote_identifier",
-                "trackName": "That's How You Like It",
+                "trackName": "How You Get The Girl",
                 "artist": {
                     "artistID": "a_gracenote_identifier",
-                    "artistName": "Beyoncé"
+                    "artistName": "Taylor Swift"
                 }
             },
             {
                 "ord": "11",
                 "recordingID": "a_gracenote_identifier",
-                "trackName": "Closer I Get To You",
+                "trackName": "This Love",
                 "artist": {
                     "artistID": "a_gracenote_identifier",
-                    "artistName": "Beyoncé"
+                    "artistName": "Taylor Swift"
                 }
             },
             {
                 "ord": "12",
                 "recordingID": "a_gracenote_identifier",
-                "trackName": "Dangerously In Love 2",
+                "trackName": "I Know Places",
                 "artist": {
                     "artistID": "a_gracenote_identifier",
-                    "artistName": "Beyoncé"
+                    "artistName": "Taylor Swift"
                 }
             },
             {
                 "ord": "13",
                 "recordingID": "a_gracenote_identifier",
-                "trackName": "Beyonce Interlude",
+                "trackName": "Clean",
                 "artist": {
                     "artistID": "a_gracenote_identifier",
-                    "artistName": "Beyoncé"
-                }
-            },
-            {
-                "ord": "14",
-                "recordingID": "a_gracenote_identifier",
-                "trackName": "Gift From Virgo",
-                "artist": {
-                    "artistID": "a_gracenote_identifier",
-                    "artistName": "Beyoncé"
-                }
-            },
-            {
-                "ord": "15",
-                "recordingID": "a_gracenote_identifier",
-                "trackName": "Daddy",
-                "artist": {
-                    "artistID": "a_gracenote_identifier",
-                    "artistName": "Beyoncé"
-                }
-            },
-            {
-                "ord": "16",
-                "recordingID": "a_gracenote_identifier",
-                "trackName": "Naughty Girl featuring Lil' Kim",
-                "artist": {
-                    "artistID": "a_gracenote_identifier",
-                    "artistName": "Beyoncé"
+                    "artistName": "Taylor Swift"
                 }
             }
         ]
