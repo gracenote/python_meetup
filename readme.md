@@ -1,8 +1,8 @@
 Welcome Python coder! 
 
-Congratulations for getting here early. In this repo you'll find sample json files for Gracenote Music Metadata, and a test script.  
+Congratulations for getting here early. In this repo you'll find sample json files for Gracenote Music Metadata, a test script, and skeleton code.  
 Please run the test script on your machine to make sure you can run the `json` and `requests` libraries.  
-There are 2 test scripts, one for Python2 and one for Python3.  To check which version of python you have installed, run the command `python --version`
+There are 2 test scripts and skeleton files, one for Python2 and one for Python3.  To check which version of python you have installed, run the command `python --version`
 
 First, clone the repo using:
 
@@ -12,7 +12,7 @@ Then navigate to the directory:
 
 `cd python_meetup`
 
-And run the test scripts:
+Next, run the test scripts:
 
 `python test_script.py`
 
@@ -21,6 +21,8 @@ The output should look like this:
 `Requests test result: True`
 
 `Json test result: Taylor Swift`
+
+The skeleton code is what we will be working through on the day of the meetup. Feel free to look through it beforehand to get an idea of what we will be doing.
 
 Resources:
 
