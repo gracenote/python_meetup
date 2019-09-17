@@ -24,7 +24,7 @@ Then navigate to the directory:
 
 `cd python_meetup`
 
-Next, run the test scripts:
+Next, run the test script:
 
 `python test_script_pythonX.py`   (where X = version of Python on your machine)
 
