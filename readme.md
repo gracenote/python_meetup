@@ -1,10 +1,22 @@
-Welcome Python coder! 
+**Welcome Python coder!**
 
-Congratulations for getting here early. In this repo you'll find sample json files for Gracenote Music Metadata, a test script, and skeleton code.  
-Please run the test script on your machine to make sure you can run the `json` and `requests` libraries.  
+In this repo, you'll find the following files:
+  * Sample JSON files for Gracenote Music Metadata
+    * Artist Metadata File: artist-object-1.json 
+    * Album Metadata File: album-object-1.json
+    * Recording Metadata File: recording-object-1.json 
+  * Test Scripts
+    * Python 2 version: test_script_python2.py
+    * Python 3 version: test_script_python3.py
+  * Skeleton Code
+    * Python 2 version: Gracenote_music_data_python2.py
+    * Python 3 version: Gracenote_music_data_python3.py
+
+**Please run the test script on your machine to make sure you can run the `json` and `requests` libraries.**
+
 There are 2 test scripts and skeleton files, one for Python2 and one for Python3.  To check which version of python you have installed, run the command `python --version`
 
-First, clone the repo using:
+Once you know what version of Python you have installed, clone the repo using: 
 
 `git clone https://github.com/gracenote/python_meetup.git`
 
@@ -14,7 +26,7 @@ Then navigate to the directory:
 
 Next, run the test scripts:
 
-`python test_script.py`
+`python test_script_pythonX.py`   (where X = version of Python on your machine)
 
 The output should look like this:
 
@@ -24,7 +36,7 @@ The output should look like this:
 
 The skeleton code is what we will be working through on the day of the meetup. Feel free to look through it beforehand to get an idea of what we will be doing.
 
-Resources:
+**Resources:**
 
 Requests Library: https://pypi.org/project/requests/2.7.0/
 
