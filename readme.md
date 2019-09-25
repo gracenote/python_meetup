@@ -34,9 +34,14 @@ The output should look like this:
 
 `Json test result: Taylor Swift`
 
-The skeleton code is what we will be working through on the day of the meetup. Feel free to look through it beforehand to get an idea of what we will be doing.
+Sample API Requests:
 
-**Resources:**
+`https://api.gmd.music.gracenote.com/v1.0/artists/search?artistName=Taylor Swift&apikey=[KEY]`
+
+`https://api.gmd.music.gracenote.com/v1.0/artists/gnid?ids=[GNID]&apikey=[KEY]`
+
+
+Resources:
 
 Requests Library: https://pypi.org/project/requests/2.7.0/
 
