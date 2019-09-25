@@ -4,7 +4,7 @@ import requests
 
 """Solutions file to be paired with the skeleton code in GRACENOTE_MUSIC_DATA.PY."""
 
-api_key = "x4vXPRdWbfQIwh0oL4kZkHJ6onYsqqiA"  # global static variable
+api_key = "zRigsMpMcRUx34HoelY2nzVOkrfUNU2L"  # global static variable
 
 
 # Command line example: python3 gracenote_music_data_solutions_py3.py
@@ -40,6 +40,7 @@ def artist_gn_id(artist_name):
             response_artist_name = artist["artistName"]["artistName"]
             if artist_name == response_artist_name:
                 artist_match_results = artist["artistID"]
+                break
 
     return artist_match_results
 
@@ -66,14 +67,14 @@ def artist_metadata(artist_gn_id):
         types = artist_json["descriptors"]["artistTypes"]
         artist_types_dict = {}
         for t in types:
-            artist_types_dict[t["artistType"]] = int(t["weight"])
+            artist_types_dict[t["genericName"]] = int(t["weight"])
         artist_type = max(artist_types_dict, key=artist_types_dict.get)
         print("Artist type: ", artist_type)
 
         genres = artist_json["descriptors"]["genres"]
         artist_genre_list = []
         for g in genres:
-            artist_genre_list.append(g["genre"])
+            artist_genre_list.append(g["genericName"])
         print("Artist genre(s): ", artist_genre_list)
 
 
@@ -130,11 +131,17 @@ def recording_metadata(recording_gn_id):
 
         moods = recording_json["descriptors"]["moods"]
         rec_mood_list = []
-        for i in xrange(3):
-            rec_mood_list.append(moods[i]["mood"])
+        for i in range(3):
+            rec_mood_list.append(moods[i]["genericName"])
         print("Top 3 recording moods: ", rec_mood_list)
 
         ms_duration = recording_json["duration"]
+
+        # much simpler way to convert to minutes and seconds:
+        # sec_duration = round((int(ms_duration) / 1000))
+        # mins = int(sec_duration / 60)
+        # secs = sec_duration % 60
+
         sec_duration = int(ms_duration[:-3])
         tenths_digit = int(ms_duration[-3:-2])
         if tenths_digit >= 5:
@@ -158,7 +165,7 @@ def recording_metadata(recording_gn_id):
 
 def main():
     artist = "Taylor Swift"
-    album_gn_id = "GN73N9FGKZRW2P3"         # 1989
+    album_gn_id = "GNCVEF2FWXWB1YN"         # 1989
     recording_gn_id = "GNDA62WP0ZPAYQF"     # Shake It Off
 
     print("Obtaining artist metadata for artist {0}...".format(artist))
