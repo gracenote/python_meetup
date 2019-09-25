@@ -9,7 +9,7 @@ through this guided skeleton code and fill in the relevant sections with your ow
 The API endpoints are relative to `https://api.gmd.music.gracenote.com/v1.0`
 """
 
-api_key = ""		# to be added on the day of the meetup, global static variable
+api_key = "x4vXPRdWbfQIwh0oL4kZkHJ6onYsqqiA"        # global static variable
 
 
 # Command line example: python gracenote_music_data_py2.py
@@ -117,8 +117,8 @@ def recording_metadata(recording_gn_id):
 
 def main():
     artist = "Taylor Swift"
-    album_gn_id = ""			# to be added on the day of the meetup, 1989
-    recording_gn_id = ""		# to be added on the day of the meetup, Shake It Off
+    album_gn_id = "GN73N9FGKZRW2P3"         # 1989
+    recording_gn_id = "GNDA62WP0ZPAYQF"     # Shake It Off
 
     print "Obtaining artist metadata for artist {0}...".format(artist)
     artist_gracenote_id = artist_gn_id(artist)
