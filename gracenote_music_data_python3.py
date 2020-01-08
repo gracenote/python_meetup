@@ -9,7 +9,7 @@ through this guided skeleton code and fill in the relevant sections with your ow
 The API endpoints are relative to `https://api.gmd.music.gracenote.com/v1.0`
 """
 
-api_key = "x4vXPRdWbfQIwh0oL4kZkHJ6onYsqqiA"        # global static variable
+api_key = "zRigsMpMcRUx34HoelY2nzVOkrfUNU2L"        # global static variable
 
 
 # Command line example: python3 gracenote_music_data_py3.py
