@@ -6,10 +6,10 @@ In this repo, you'll find the following files:
     * Album Metadata File: album-object-1.json
     * Recording Metadata File: recording-object-1.json 
   * Test Scripts
-    * Python 2 version: test_script_python2.py
+    * Python 2 version: test_script_python2.py (Removed 01/08/2020)
     * Python 3 version: test_script_python3.py
   * Skeleton Code
-    * Python 2 version: Gracenote_music_data_python2.py
+    * Python 2 version: Gracenote_music_data_python2.py (Removed 01/08/2020)
     * Python 3 version: Gracenote_music_data_python3.py
 
 **Please run the test script on your machine to make sure you can run the `json` and `requests` libraries.**
